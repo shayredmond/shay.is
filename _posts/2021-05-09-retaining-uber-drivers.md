@@ -36,3 +36,4 @@ To pull it off, I would recommend the following:
    -   This program could include stipends for training resources, hosting events, etc. Successful Leaders could also get a bonus from Uber for maintaining a successful community, measured by attendance and high-NPS.
 6.  Allow ad-hoc communities to form organically by drivers once we’ve fully understood what the differentiated “walled garden” play is for the in-app community space.
    -   Must ensure that there is added benefit for both parties by remaining in the Uber app ecosystem.
+ 
